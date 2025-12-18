@@ -1,0 +1,8 @@
+{
+  "name": "My Supper Family",
+  "description": "A comprehensive family management container featuring finance tracking, fitness logging, and administrative controls with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
